@@ -3,9 +3,7 @@ layout: page
 title: Food & Beverage
 ---
 
-## Der tägliche Kampf mit der Nahrungsaufnahme
-
-Hier steht Text.
+Hier steht Text. Mehr Text. Mindestens so viel Text. 
 
 ## Klassisch & raffiniert
 
