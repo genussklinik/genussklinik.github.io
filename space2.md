@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Space
+title: Space2
 ---
 
 .
