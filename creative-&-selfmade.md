@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Creative & Design
+title: Creative & Selfmade
 ---
 
 <div class="message">
