@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Food
+title: Food & Beverage
 ---
 
 ## Der tägliche Kampf mit der Nahrungsaufnahme
