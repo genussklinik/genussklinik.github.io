@@ -1,7 +1,7 @@
 # Setup
 title:               Genussklinik
 tagline:             '[Not] Just another Github site.'
-description:         'Hier steht eine description.'
+description:         'Manche Dinge müssen erlebt werden.'
 url:                 https://genussklinik.github.io
 baseurl:             '/'
 paginate:            5
