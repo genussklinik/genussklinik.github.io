@@ -1,6 +1,6 @@
 # Setup
 title:               Genussklinik
-tagline:             '[Not] Just another Github Blog.'
+tagline:             '[Not] Just another Github site.'
 description:         'Hier steht eine description.'
 url:                 https://genussklinik.github.io
 baseurl:             '/'
@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Genuss Klinik
+  url:               https://genussklinik.de
+  email:             kontakt@genussklinik.de
 
 # Gems
 plugins:
