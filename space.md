@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Space
+title: Drink
 ---
 
 <p class="message">
