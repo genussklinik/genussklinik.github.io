@@ -1,7 +1,7 @@
 # Setup
 title:               Genussklinik
 tagline:             '[Not] Just another Github site.'
-description:         '<a href="https://www.xup.in/dl,42112980/GK_Logo.png/"><img src="https://www1.xup.in/exec/ximg.php?fid=42112980" border="0"></a>'
+description:         '<a href="https://www.xup.in/dl,42112980/GK_Logo.png/"><img src="https://www1.xup.in/exec/ximg.php?fid=42112980" border-radius="50%"></a>'
 url:                 https://genussklinik.github.io
 baseurl:             '/'
 paginate:            5
