@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tools I Gadgets
+title: Tools & Gadgets
 ---
 
 <div class="message">
