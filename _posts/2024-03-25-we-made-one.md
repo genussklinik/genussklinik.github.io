@@ -11,4 +11,4 @@ get ready for what’s next
 </div>
 
 
-![PIC]()
+![PIC](https://www.xup.in/dl,42112980/GK_Logo.png/)
