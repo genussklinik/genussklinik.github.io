@@ -1,6 +1,6 @@
 ---
 layout: post
-title: we made one. 
+title: we made two. 
 ---
 
 get ready for what’s next 
