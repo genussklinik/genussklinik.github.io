@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inspo & Selfmade
+title: Inspration Feed
 ---
 
 <div class="message">
