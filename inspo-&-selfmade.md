@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inspration Feed
+title: Inspiration Feed
 ---
 
 <div class="message">
